@@ -20,20 +20,12 @@ body {
   max-width: 330px;
 }
 
+
 .btn {
   margin-top: 10px;
 }
 
-/* .form-signin .form-floating{
-  z-index: 2;
-} */
-/* .top {
-  margin-bottom: -1px;
-  border-bottom-right-radius: 0;
-  border-bottom-left-radius: 0;
-} */
-/* .bottom {
-  margin-bottom: 10px;
-  border-top-left-radius: 0;
-  border-top-right-radius: 0;
-} */
+#floatingInput{
+  height: 50px;
+  max-width: 330px;
+}
